@@ -1,0 +1,44 @@
+.upload {
+    margin: 50px auto;
+    width: 550px;
+    height: 100px;
+    
+}
+.img-box {
+    width: 32px;    
+    height: 100px;
+    float: left;
+    padding-top: 30px; 
+    /* background-image: url('../task2-documents/upload.svg'); */
+    /* background-repeat: no-repeat;
+    background-position: 50%; */
+
+}
+.img {
+    width: 32px;
+    height: 32px;
+}
+.text {
+    height: 100px;
+    width: 350px;
+    margin-left: 50px;
+    float: left;
+    
+}
+h3 {
+    text-decoration: underline;
+    color: #000;
+    font-weight: normal;
+    cursor: pointer;
+
+}
+p {
+    color: #d3d3d3;
+
+}
+.status {
+ float: right;
+ width: 100px;
+ height: 65px;
+ padding-top: 35px;
+} 
